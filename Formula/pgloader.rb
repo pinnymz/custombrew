@@ -1,4 +1,4 @@
-class PgloaderAT9 < Formula
+class Pgloader < Formula
   desc "Data loading tool for PostgreSQL"
   homepage "https://github.com/dimitri/pgloader"
   url "https://github.com/dimitri/pgloader/archive/v3.6.2.tar.gz"
